@@ -24,7 +24,7 @@ public class MethodTypes {
 	
 	public String ending()
 	{
-		return "end programme";
+		return "end program";
 	}
 
 	public static void main(String[] args) {
